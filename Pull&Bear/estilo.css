@@ -1,0 +1,155 @@
+
+/*Estilo Pull&Bear*/
+
+/*Header*/
+
+#enca{
+	margin: 0 auto;
+	width:950px;
+
+	height:200px; 
+}
+nav{
+	float: left;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+ul{
+	margin-top:10px; 
+}
+li{
+	list-style-type: none;
+}
+li a{
+	color: black;
+	text-decoration: none;
+}
+h1{
+	float: left;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+	margin-left: 230px;
+	margin-top: 0px;
+}
+#bus{
+	border: 0;
+	outline: 0;
+	background: transparent;
+	border-bottom: 2px solid black;
+	float: left;
+	margin-left: 150px;
+	margin-top: 10px;
+}
+#im1{
+	float: left;
+	position: relative;
+	top: 10px;
+	left:-190px;
+}
+::placeholder{
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  color: black;
+  font-weight: bold;
+}
+.im2{
+	margin-top: 5px;
+}
+
+/*Article*/
+
+#art{
+	width: 950px;
+	height: 1640px;
+	margin: 0 auto;
+}
+.imgART{
+	width: 230px;
+	height: 380px;
+	float: left;
+	margin-left: 6px;
+	margin-top: 25px;
+}
+div img{
+	float: left;
+}
+.pCami{
+	text-align: center;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+	font-size: 15px;
+	margin-top: 300px;
+}
+.precio{
+	margin-top: 5px;
+	font-weight: bold;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+/*Footer*/
+
+#pie{
+	width: 950px;
+	height: 800px;
+	margin: 0 auto;	font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+h2{
+	text-align: center;
+}
+#pSUB{
+	font-size: 20px;
+	text-align: center;
+}
+#bus2{
+	border: 0;
+	outline: 0;
+	background: transparent;
+	border-bottom: 2px solid black;
+	float: left;
+	margin-left: 150px;
+	margin-top: 10px;
+	width: 350px;
+	margin-left: 310px;
+	margin-top: -12px;
+}
+#mailP{
+	font-size: 15px;
+	text-align: center;
+	margin-top: 5px;
+}
+#cT{
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+}
+#info{
+	text-align: center;
+	font-size: 15px;
+}
+#info img{
+	float: left;
+	position: relative;
+	left: 330px;
+}
+#info a{
+	text-decoration: none;
+	color: #a1c1b6;
+}
+#hor{
+	text-align: center;
+	font-size: 15px;
+}
+.liF{
+	width: 190px;
+	height: 230px;
+	float: left;
+	margin-left: 40px;
+}
+.liF li{
+	font-size: 12px;
+	margin-left: -25px;
+	margin-top: 5px;
+}
+.pF{
+	margin-left:12px;
+	font-size: 12px;
+	font-weight: bold;
+}
